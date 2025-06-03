@@ -7,7 +7,7 @@ Lane Escape X es un juego para PC con sistema operativo (Windows). donde el juga
 
 **Por ejemplo:**
 Este proyecto consiste en un juego de reflejos donde el jugador controla un carro que debe esquivar obstáculos descendentes cambiando entre cuatro carriles. El juego se usa estructuras de control como "if" y "else"; para detectar colisiones y controlar los límites del movimiento. También se aplican "bucles" y "while" para mantener el juego activo y "for" para mover los obstáculos y dibujar la escena. 
-Además, el juego está programado en C++ con la librería gráfica: "SFML"; para una mejor experiencial visual, y guarda el récord del jugador usando manejo de archivos.
+Además, el juego estará programado con la librería gráfica: "SFML"; para una mejor experiencial visual, y guarda el récord del jugador usando manejo de archivos.
 
 ## Equipo
 
