@@ -7,8 +7,6 @@ Lane Escape X es un juego para PC con sistema operativo (Windows). donde el juga
 
 El jugador controla un carro que puede moverse entre cuatro carriles usando las teclas de dirección izquierda y derecha. Desde la parte superior de la pantalla, aparecen obstáculos en carriles aleatorios que se desplazan hacia abajo. A medida que pasa el tiempo, la velocidad del carro y la frecuencia de aparición de obstáculos aumentan, haciendo que el juego sea cada vez más desafiante.
 
-Por ejemplo:
-
 Este proyecto consiste en un juego de reflejos donde el jugador controla un carro que debe esquivar obstáculos descendentes cambiando entre cuatro carriles. El juego se usa estructuras de control como "if" y "else"; para detectar colisiones y controlar los límites del movimiento. También se aplican "bucles" y "while" para mantener el juego activo y "for" para mover los obstáculos y dibujar la escena. 
 Además, el juego estará programado con la librería gráfica: "SFML"; para una mejor experiencial visual, y guarda el récord del jugador usando manejo de archivos.
 
