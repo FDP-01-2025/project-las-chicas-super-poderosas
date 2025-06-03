@@ -25,8 +25,10 @@ Además, el juego estará programado con la librería gráfica: "SFML"; para una
 
 3. **Nombre completo:** Banderas Ruiz, Andrés Antonio  
    **Carnet:** 00044125
+   
+4. **Nombre completo:** Alvarado Landaverde, Cesar Melquisedec  
+   **Carnet:** 00029425
 
-(Agregar más integrantes si es necesario)
 
 ## Instrucciones de Ejecución
 
