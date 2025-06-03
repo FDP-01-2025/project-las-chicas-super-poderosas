@@ -16,11 +16,11 @@ Además, el juego estará programado con la librería gráfica: "SFML"; para una
 
  Integrantes del equipo
 
-1. **Nombre completo:** Evelyn Sofía González Recinos  
-   **Carnet:** 00181825
+1. Nombre completo: Evelyn Sofía González Recinos  
+   Carnet: 00181825
 
-2. **Nombre completo:** [Nombre del estudiante 2]  
-   **Carnet:** [Carnet del estudiante 2]
+2. Nombre completo: Franco Landaverde-Josué Alejandro 
+   Carnet: 00083825
 
 3. **Nombre completo:** [Nombre del estudiante 3]  
    **Carnet:** [Carnet del estudiante 3]
