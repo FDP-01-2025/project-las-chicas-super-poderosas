@@ -21,10 +21,11 @@ Además, el juego estará programado con la librería gráfica: "SFML"; para una
 1. Nombre completo: González Recinos, Evelyn Sofía  
    Carnet: 00181825
 
-2. Nombre completo: Franco Landaverde, Josué Alejandro
+2. Nombre completo: Franco Lanverde, Josué Alejandro  
    Carnet: 00083825
 
-4. **Nombre completo:** Banderas Ruiz, Andrés Antonio  
+
+3. **Nombre completo:** Banderas Ruiz, Andrés Antonio  
    **Carnet:** 00044125
 
 (Agregar más integrantes si es necesario)
