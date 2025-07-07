@@ -29,8 +29,3 @@ Este proyecto consiste en un juego de reflejos donde el jugador controlar la boc
    **Carnet:** 00029425
 
 
-## Instrucciones de Ejecución
-
-1. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone [URL del repositorio]

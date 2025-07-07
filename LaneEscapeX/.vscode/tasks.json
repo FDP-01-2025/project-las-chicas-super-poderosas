@@ -1,0 +1,26 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build LaneEscapeX",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "main.cpp",
+                "src/Game.cpp",
+                "src/Obstacle.cpp",
+                "src/Utils.cpp",
+                "-o",
+                "output/game.exe",
+                "-Isrc",
+                "-Wall",
+                "-Wextra"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"]
+        }
+    ]
+}
