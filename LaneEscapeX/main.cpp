@@ -7,5 +7,5 @@ int main() {
 
 
 
-// monado en nueva terminal: g++ LaneEscapeX/main.cpp LaneEscapeX/src/Game.cpp LaneEscapeX/src/Obstacle.cpp LaneEscapeX/src/Utils.cpp -o LaneEscapeX/output/game.exe -ILaneEscapeX/src -Wall
+// comando en nueva terminal: g++ LaneEscapeX/main.cpp LaneEscapeX/src/Game.cpp LaneEscapeX/src/Obstacle.cpp LaneEscapeX/src/Utils.cpp -o LaneEscapeX/output/game.exe -ILaneEscapeX/src -Wall
 // luego : "LaneEscapeX/output/game.exe"
