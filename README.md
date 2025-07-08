@@ -36,10 +36,6 @@ This repository includes a terminal version of the game with the following featu
 - Progressive difficulty: The speed increases every 50 points.
 - Highscore system: Automatically saves the best scores.
 
-It is recommended to expand this code to add:
-Two player mode (competitive or cooperative) 2.
-2. Power-ups or special bonuses
-3. Different types of obstacles with unique behaviors.
 
 Implementation Notes
 - Developed in C++ for terminal
@@ -48,8 +44,8 @@ Implementation Notes
 - Compatible with Windows systems (requires MinGW for compilation)
 
 ▶How to Play
-1. Compile the game: g++ main.cpp src/*.cpp -o game.exe
-2. Run: ./game.exe
+1. Compile the game: g++ main.cpp src/Game.cpp src/Obstacle.cpp src/Utils.cpp -o game.exe
+2. Run: .\game.exe
 3. Use A/D keys to avoid obstacles.
 4. Press Q to exit at any time
 
